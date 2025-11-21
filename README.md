@@ -16,5 +16,10 @@ This project orchestrates MATLAB Simulink Test Manager runs via Python automatio
 |---------|:----:|---------:|
 | Install Guide | [INSTALLATION.md](/docs/INSTALLATION.md) | Setup instructions |
 | Config Guide | [CONFIG.md](/docs/CONFIG.md) | How the JSON and paths work |
+| CI/CD Flow | <> | High-level diagrams of project flow |
+| Environment & Dependencies | <> | List of required environment & dependencies |
+| MATLAB Test Runner Guide | <> | High-level summary of Matlab tests |
+| Error Codes Reference | <> | Summary of possible Error-codes |
+| Local Debugging Guide | <> | Simple guide for common issues |
 
 </div>
